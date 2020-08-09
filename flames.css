@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0; 
+}
+body{
+    
+     
+   
+     background-repeat: no-repeat;
+     background-image:url("http://wallpapers.net/web/wallpapers/my-first-love-hd-wallpaper-for-desktop-mobiles/3840x2160.jpg");
+     background-size: 1500px;
+   
+}
+.container{
+
+      position:absolute;
+      left:1%;
+      top:25%;
+      display:flex;
+      flex-direction:column;
+      color:rgb(0, 0, 0);
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 200;
+      font-size: 30px;
+     
+}
+input{
+     border-radius: 5%;
+     border-style: none;
+     height:40px;
+     width:250px;
+     background-image:radial-gradient(white 2%,rgb(158, 213, 245) 90%);
+     box-shadow: none;
+}
+.box1{
+      bottom:80px;
+      position: relative;
+}
+.box2{
+      top:30px;
+      position: relative;
+}
+#yname{
+     left:125px;
+     position:relative;
+}
+.box4{
+       position: relative;
+       top:150px;
+}
+.sub-btn,.res-btn{
+       
+      height:100px;
+      width:300px;
+      border-style: none;
+      border-radius: 5%;
+      background-image: radial-gradient(white 2%,rgb(158, 213, 245) 90%);
+}
+#box3{
+     
+     border-radius: 5%;
+     position: relative;
+     top:90px;
+     background-color: white;
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: 200;
+     font-size: 30px;
+     
+}
